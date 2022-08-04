@@ -1,0 +1,29 @@
+/* Styling the homepage */
+
+.homepageimg {
+    width: 800px; height: auto;
+}
+
+.homepagetitle {
+    font-family: Impact,'Arial Narrow Bold', sans-serif;
+    font-size: 100px;
+    text-align: left;
+    font-weight: 700;
+}
+
+.intriguequestion {
+    font-family: Impact,'Arial Narrow Bold', sans-serif;
+    font-size: large;
+    font-weight: 700;
+    text-align: left;
+    font-size: 50px;
+}
+
+.list {
+    color: black;
+    font-style: italic;
+    font-weight: 900;
+    font-family: Impact,'Arial Narrow Bold', sans-serif;
+    text-align: left;
+    font-size: 20px;
+}
