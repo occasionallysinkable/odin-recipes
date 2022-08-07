@@ -1,0 +1,60 @@
+.image {
+    width: 900px;
+    height: auto;
+    display: block;
+    margin: auto;
+}
+
+.caption {
+    font-style: italic;
+    color: yellow;
+    background-color: black;
+    display: block;
+    width: 23%;
+    margin: auto;
+    margin-top: 20px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    text-align: center;
+    
+}
+
+.heading, .intro, .ingreds, .steps, .general, .links {
+    font-family: Impact, 'Arial Narrow Bold', sans-serif;
+    font-size: 40px;
+    color: olivedrab;
+    text-decoration: underline;
+    font-weight: 500px;
+}
+
+.heading {
+    text-align: center;
+    color: black;
+    font-size: 90px;
+    text-decoration: none;
+}
+
+.leftburger, .noburger, .mainpage, .topofpage {
+    font-style: italic;
+    font-size: 25px;
+    display: block;
+    width: 29.5%;
+    padding-left: 3px;
+    padding-right: 3px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    color: yellow;
+    background-color: black;
+}
+
+.mainpage {
+    width: 35%;
+}
+
+.noburger {
+    width: 37.5%;
+}
+
+.topofpage {
+    width: 24%;
+}
