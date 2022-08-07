@@ -1,0 +1,76 @@
+/* CSS file for lefthandedburger.html */
+.img {
+    width: 900px;
+    height: auto; 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.topofthepage, .Righthandedlink, .mainpagelink, .caption {
+    background-color: black;
+    color: yellow;
+    display: block;
+    width: 25%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    font-size:medium;
+    text-align: center;
+    font-style: italic;
+    font-family: Impact, 'Arial Narrow Bold', sans-serif ;
+}
+
+.topofthepage, .Righthandedlink, .mainpagelink { 
+    margin-left: 10px;
+    font-size: 25px;
+    font-weight: bold;
+    padding-left: 30px;
+    padding-right: 30px;
+    width: 28%;
+}
+
+.topofthepage {
+    width: 33%;
+}
+
+.Righthandedlink {
+    width: 43%;
+}
+
+.tophead {
+    font-family: Impact,'Arial Narrow Bold', sans-serif ;
+    font-size: 100px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.descript {
+    font-family: Impact, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+    text-align: left;    
+}
+
+.descript, .ingreds, .steps {
+    font: 800;
+    font-family: Impact, 'Arial Narrow Bold', sans-serif;
+    color: darkolivegreen;
+    font-size: 40px;
+    text-align: left;
+}
+
+.roast {
+    font-size: 30px;
+    font-style: italic;
+}
+
+.down {
+    text-decoration: underline;
+}
+
+.boldcolor {
+    color: darkolivegreen;
+}

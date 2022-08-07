@@ -1,5 +1,5 @@
-﻿How to create a list within a list using HTML such that the validator doesn’t term it is an error?
+﻿How to create a list within a list using HTML such that the validator doesn’t term it is an error? Is it allowed to use <ol> as child element of <ol> itself? Or similarly, how to properly use <ul> inside it’s parent element of <ol>? Internet search says it’s possible (which it is because I used it in coding this Project) but the validator says doing this will “suppress further errors from this subtree” and so doing this is an error. 
 
-Is it allowed to use <ol> as child element of <ol> itself? Or similarly, how to properly use <ul> inside it’s parent element of <ol>? Internet search says it’s possible (which it is because I used it in coding this Project) but the validator says doing this will “suppress further errors from this subtree” and so doing this is an error. 
+Why can't I put anything away if I am adding a link to it, in the html file? Why do I have to put everything in the same folder for the <a links> to work? Are links literally not meant to fetch stuff from ANYWHERE?
 
-
+Why are the css classes required to be in the right order. How is the specifity affected by it? (Specificty decreases but why? The logic)
