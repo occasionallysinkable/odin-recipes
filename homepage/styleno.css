@@ -11,6 +11,40 @@
     
 }
 
-.image {
+.top, .left, .right, .main, .caption{
+    font-size: 30px;
+    font-style: italic;
+    text-align: left;
+    background-color: black;
+    color:yellow;
+    margin-right: 580px;
+    padding-left: 3px;
+}
 
+.top {
+    margin-right: 910px;
+}
+
+.right {
+    margin-right: 600px;
+}
+
+.main {
+    margin-right: 840px;
+}
+
+.caption{
+    font-size: 18px;
+    text-align: center;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 280px;
+}
+.image {
+    width: 900px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;    
 }
