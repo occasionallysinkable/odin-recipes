@@ -1,0 +1,16 @@
+.heading {
+    font-size: 90px;
+    text-align: center;
+}
+
+.intro, .ingreds, .steps, .links {
+    font-size: 50px;
+    color: olivedrab;
+    text-align: left;
+    text-decoration: underline;
+    
+}
+
+.image {
+
+}
